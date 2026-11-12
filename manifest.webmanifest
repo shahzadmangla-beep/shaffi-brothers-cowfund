@@ -1,0 +1,18 @@
+{
+  "name": "Shaffi Brothers CowFund",
+  "short_name": "CowFund",
+  "description": "Private family cattle investment dashboard",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f6f1",
+  "theme_color": "#174b3b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
